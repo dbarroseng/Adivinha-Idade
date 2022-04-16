@@ -8,7 +8,7 @@ Esse é um jogo que tem por objetivo adivinhar a idade de uma pessoa ou um núme
 ### Sistema Operacional e Bibliotecas
 
 Esse jogo foi implementado usando o Sistema Operacional Linux - Distribuição Ubuntu 20.04 LTS e a linguagem de programação Python.
-Para que o jogo funcione corretamente é necessário que se tenha instalado o Python e a biblioteca para Python: Numpy [Linux/Windows]
+Para que o jogo funcione corretamente é necessário que se tenha instalado o [Python](https://www.python.org/downloads/) e a biblioteca para Python: [Numpy](https://numpy.org/).
 
 ### Execução do jogo
 
